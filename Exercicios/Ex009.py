@@ -1,3 +1,5 @@
+#Faça um programa que leia um número Inteiro qualquer e mostre na tela a sua tabuada.
+
 n1 = int(input("Digite Um Numero Para A Tabuada:"))
 print("=" * 15)
 print("{} X {} = {}".format(n1,1,n1*1))

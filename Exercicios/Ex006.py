@@ -1,3 +1,5 @@
+#Crie um algoritmo que leia um número e mostre o seu dobro, triplo e raiz quadrada.
+
 n1 = int(input("Digite Um Numero:"))
 n2 = n1 * 2
 n3 = n1 * 3

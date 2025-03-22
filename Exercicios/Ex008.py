@@ -1,3 +1,5 @@
+#Escreva um programa que leia um valor em metros e o exiba convertido em centímetros e milímetros.
+
 n1 = float(input("Um Distancia Em Metros:"))
 
 km = n1 / 10000
